@@ -1,0 +1,1 @@
+f = open('local\e:\k.txt','r')
